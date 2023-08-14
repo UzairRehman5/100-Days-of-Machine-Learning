@@ -1,4 +1,4 @@
-<h1>Day 1 - Introduction to Machine Learning and it's types(Theoretical)</h1>
+<h1>Day 1 - Introduction to Machine Learning (Theoretical)</h1>
 
 
 <h3>Topics covered</h3>
