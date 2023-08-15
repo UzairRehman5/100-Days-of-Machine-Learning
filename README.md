@@ -7,7 +7,7 @@ In this repository, I will document my journey of learning machine learning and 
   <ul>
     <li>Day 0 - Prerequisites</li>
     <li>Day 1 - Introduction to Machine Learning (Theoretical)</li>
-    <li>Day 2 -</li>
+    <li>Day 2 - Machine Learning Development Life Cycle & Challenges in Machine Learning (Theoretical)</li>
     <li>Day 3 - Working with CSV files</li>
     <li>Day 4 - Working with JSON files</li>
   </ul>
