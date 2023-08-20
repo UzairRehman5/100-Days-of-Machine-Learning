@@ -1,4 +1,4 @@
-<h3>Numpy Overview</h3><br>
+<h2>Numpy Overview</h2><br>
 
 <ul>
     <li>NumPy is a Python library for scientific computing.</li><br>
