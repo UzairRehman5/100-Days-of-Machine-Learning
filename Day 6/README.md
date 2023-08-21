@@ -5,7 +5,7 @@
   <li>Web scraping the IMDb website to extract movie data</li>
   </ul>
 
-
+<br><br>
   Additionally, the data we extracted is saved in a CSV file, and that CSV file is also attached to this repository
 
 
