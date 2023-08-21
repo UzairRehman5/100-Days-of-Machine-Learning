@@ -1,4 +1,4 @@
-<h1>Day $ - Working with JSON & SQL files</h1>
+<h1>Day 4 - Working with JSON & SQL files</h1>
 
 <h3>Topics covered</h3>
   <ul>
