@@ -9,5 +9,4 @@
   </ul>
 
 <br>
-Additionally, I have also added the CSV file that contains the data I have scraped.
-
+Additionally, I have also added the CSV file containing the data I scraped.
