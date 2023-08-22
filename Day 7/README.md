@@ -1,5 +1,15 @@
-**Web scraping** is the process of extracting data from websites. It involves automated methods for fetching and parsing web content to gather information from web pages. This data can then be used for various purposes, such as analysis, research, or data integration into other applications.
+<h1>Day 7 - Understanding the data</h1>
 
-In the notebook, I have scraped the website 'airlinequality' to extract customer reviews of British aircraft and the services they provide.
+This notebook discusses the initial steps we will take to understand the data.
 
-Additionally, I have also added the CSV file that contains the data I have scraped.
+
+<h3>Topics covered</h3>
+  <ul>
+  <li>To check the shape of our dataset.</li>
+  <li>To examine the structure of our data.</li>
+  <li>To determine the data types of the columns in the dataset.</li>
+  <li>To identify any missing values in the dataset.</li>
+  <li>To analyze the mathematical characteristics of the data.</li>
+  <li>To search for duplicate values in the dataset.</li>
+  <li>To assess the correlation between columns.</li>
+</ul>
