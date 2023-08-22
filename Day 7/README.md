@@ -13,3 +13,6 @@ This notebook discusses the initial steps we will take to understand the data.
   <li>To search for duplicate values in the dataset.</li>
   <li>To assess the correlation between columns.</li>
 </ul>
+
+
+Additionally, please note that the csv file used in the notebook is included in this folder.
