@@ -9,5 +9,9 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 1 - Introduction to Machine Learning (Theoretical)</li>
     <li>Day 2 - Machine Learning Development Life Cycle & Challenges in Machine Learning (Theoretical)</li>
     <li>Day 3 - Working with CSV files</li>
-    <li>Day 4 - Working with JSON files</li>
+    <li>Day 4 - Working with JSON & SQL files</li>
+    <li>Day 5 - Fetching Data from API</li>
+    <li>Day 6 - Web Scraping</li>
+    <li>Day 7 - Understanding the data</li>
+    <li>Day 8 - Automated Data Analysis using Pandas Profililing</li>
   </ul>
