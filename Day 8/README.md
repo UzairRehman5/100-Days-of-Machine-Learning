@@ -5,7 +5,7 @@ Pandas Profiling is a Python library used for generating a detailed exploratory 
 Pandas Profiling is a valuable tool for quickly understanding your data, especially when dealing with new datasets or when performing initial data exploration in data science and machine learning projects. 
 It helps data analysts and scientists save time by automating the process of generating basic insights and visualizations.
 
-Here are some key features and functions of Pandas Profiling:
+Here are some key features and functions of Pandas Profiling:<br>
 <ul>
     <li>Automatic Report Generation: Pandas Profiling generates a comprehensive report automatically with just a single line of code. This report includes information about data types, missing values, basic statistics, and more.</li>
     <li>Data Overview: It provides an overview of the dataset, including the number of rows and columns, data types, and a preview of the first and last few rows.</li>
