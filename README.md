@@ -14,4 +14,5 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 6 - Web Scraping</li>
     <li>Day 7 - Understanding the data</li>
     <li>Day 8 - Automated Data Analysis using Pandas Profililing</li>
+    <li>Day 9 - Handling Missing Values Part # 01 (Complete Case Analysis)</li>
   </ul>
