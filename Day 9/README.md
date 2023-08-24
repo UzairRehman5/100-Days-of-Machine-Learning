@@ -14,9 +14,9 @@ Here's how Complete Case Analysis works:
 Advantages of Complete Case Analysis:
 - It is straightforward and easy to implement.
 - It does not require imputation methods to fill in missing values.
-<br><br>
+<br><br><br>
 Disadvantages of Complete Case Analysis:
 - It can result in a loss of a significant portion of the data, especially if missing data is common.
 - If missing data is not missing completely at random (MCAR) but instead follows a specific pattern or depends on other variables, CCA can introduce bias into the analysis.
-<br><br>
+<br><br><br>
 Complete Case Analysis is most effective when missing data are missing completely at random (MCAR), meaning that the probability of data being missing does not depend on any variables, observed or unobserved. However, in many real-world datasets, missing data are often not MCAR, and other methods like imputation techniques may be more appropriate for handling missing values while retaining more of the data for analysis.
