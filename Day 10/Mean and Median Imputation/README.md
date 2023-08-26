@@ -17,15 +17,6 @@
   <li><strong>Inappropriate for Categorical Data:</strong> Mean imputation is designed for numerical data. Using it for categorical variables doesn't make sense, as you can't calculate the mean of categories.</li>
     </ol>
 
-<style>
-    hr {
-        color: #333; /* Line color */
-        background-color: #333; /* Background color */
-        height: 2px; /* Line height */
-        border: none; /* Remove the default border */
-        margin: 20px 0; /* Adjust the margin to control spacing */
-    }
-</style>
 <br><br>
 <hr>
 <br><br>
