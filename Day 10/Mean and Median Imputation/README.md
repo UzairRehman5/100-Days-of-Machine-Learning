@@ -26,16 +26,16 @@
         margin: 20px 0; /* Adjust the margin to control spacing */
     }
 </style>
-
+<br><br>
 <hr>
-
+<br><br>
 
 <h1>Median Value Imputation:</h1>
     <p>
         Median value imputation is a technique used to handle missing data in numerical variables by replacing the missing values with the median (middle value) of the observed data for that specific variable. Here's how it works:
     </p>
     
-  h2>Advantages:</h2>
+  <h2>Advantages:</h2>
     <ol>
       <li><strong>Preserves Data Distribution:</strong> Median imputation is a non-parametric method, meaning it does not assume any specific data distribution. This can be advantageous when dealing with variables that do not follow a normal distribution. Unlike mean imputation, which can be sensitive to outliers, median imputation is more robust in this regard.</li>
         
@@ -48,7 +48,4 @@
   <li><strong>Reduces Variability:</strong> While median imputation is robust to outliers, it may introduce bias and underestimate the true variability in the data, especially if the missing data is not missing at random. This can impact the accuracy of statistical analyses and machine learning models.</li>
         
   <li><strong>Loss of Information:</strong> By replacing missing values with a single constant (the median), you lose information about the reasons for missing data, potentially obscuring underlying patterns or trends in the dataset.</li>
-        
-        
-    </ol>
     
