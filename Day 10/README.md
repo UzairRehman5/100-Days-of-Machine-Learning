@@ -6,5 +6,6 @@ In Day 10 session, I delve into the crucial topic of handling missing numerical 
   <ul>
   <li>Arbitrary Value Imputation</li>
   <li>Mean and Median Imputation</li>
+  <li>Random Value Imputation</li>
   <li>Simple Imputer</li>
   </ul>
