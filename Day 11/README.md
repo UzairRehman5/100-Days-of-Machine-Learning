@@ -1,3 +1,5 @@
+<h1>Handling Missing Categorical Data using Univariate Imputation</h1>
+
 Handling missing categorical data using univariate imputation involves filling in missing values in categorical columns based on some statistic or constant value calculated from the non-missing data in the same column. Here's a brief overview of the process:
 
 1. **Identify Missing Values**: First, identify which columns in your dataset have missing categorical values.
