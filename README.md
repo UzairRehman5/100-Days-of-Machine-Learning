@@ -16,4 +16,5 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 8 - Automated Data Analysis using Pandas Profililing</li>
     <li>Day 9 - Handling Missing Values using Complete Case Analysis</li>
     <li>Day 10 - Handling Missing Numerical Data using Univariate Imputation</li>
+    <li>Day 11 - Handling Missing Categorical Data using Univariate Imputation</li>
   </ul>
