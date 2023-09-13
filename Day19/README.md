@@ -1,6 +1,6 @@
-<h1>A Label Encoder</h1>
+<h1>Label Encoding</h1>
     
-  <p>Label Encoder is a data preprocessing technique used in machine learning and data analysis. Its primary purpose is to convert categorical values in the target variable into numerical labels so that machine learning algorithms can work with them effectively.</p>
+  <p>Label Encoding is a data preprocessing technique used in machine learning and data analysis. Its primary purpose is to convert categorical values in the target variable into numerical labels so that machine learning algorithms can work with them effectively.</p>
 
   <h2>How a Label Encoder Works with the Target Variable</h2>
 
