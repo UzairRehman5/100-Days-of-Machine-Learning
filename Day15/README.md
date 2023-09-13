@@ -20,3 +20,5 @@
 
   <p>In summary, the Z-score method is a widely used technique for identifying and handling outliers, especially when the data is normally distributed or approximately so. However, it's important to be cautious when applying this method to datasets with non-normal distributions, as it may lead to the misidentification of valid data points as outliers or the failure to detect certain outliers. Consider the characteristics of your data and the goals of your analysis when deciding whether to use the Z-score method for outlier detection.</p>
 
+
+Additionally, please note that the csv file used in the notebook is included in this folder.
