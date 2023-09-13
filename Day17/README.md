@@ -1,5 +1,4 @@
 <h1>Ordinal Encoding</h1>
-
 <p>Ordinal encoding is a type of categorical encoding that assigns numerical values to categorical data in a way that preserves the order of the categories. For example, if a categorical feature has the values "low", "medium", and "high", then ordinal encoding would assign the values <code>1</code>, <code>2</code>, and <code>3</code> to these categories, respectively.</p>
 <p>Ordinal encoding is a good choice for categorical data that has an inherent order, such as data about the severity of a disease or the level of education of a person. Ordinal encoding can help machine learning models to learn the relationships between different features and to make better predictions.</p>
 
