@@ -15,3 +15,5 @@
 <li>It can only be used for categorical data that has an inherent order.</li>
 </ul>
 <p>Overall, ordinal encoding is a versatile and effective way to encode categorical data. It is a good choice for machine learning models that need to learn the relationships between different features.</p>
+
+Additionally, please note that the csv file used in the notebook is included in this folder.
