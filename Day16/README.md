@@ -22,3 +22,6 @@
 </ul>
 <p>Overall, the percentile method is a simple and effective way to detect outliers. However, it is important to use the method with caution and to consider the specific characteristics of the data set.</p>
 
+
+Additionally, please note that the csv file used in the notebook is included in this folder.
+
