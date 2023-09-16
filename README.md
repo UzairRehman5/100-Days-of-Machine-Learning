@@ -17,6 +17,9 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 9 - Handling Missing Values using Complete Case Analysis</li>
     <li>Day 10 - Handling Missing Numerical Data using Univariate Imputation</li>
     <li>Day 11 - Handling Missing Categorical Data using Univariate Imputation</li>
+    <li>Day 14 - Outlier Detection and Removal using the Interquartile Range (IQR) Method</li>
+    <li>Day 15 - Outlier Detection and Removal using the Z-score Method</li>
+    <li>Day 16 - Outlier Detection and Removal using the Percentile Method</li>
     <li>Day 20 - Univariate Exploratory Data Analysis</li>
     <li>Day 21 - Bivariate Exploratory Data Analysis</li>
     <li>Day 22 - Multivariate Exploratory Data Analysis</li>
