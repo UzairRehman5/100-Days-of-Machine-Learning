@@ -20,6 +20,9 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 14 - Outlier Detection and Removal using the Interquartile Range (IQR) Method</li>
     <li>Day 15 - Outlier Detection and Removal using the Z-score Method</li>
     <li>Day 16 - Outlier Detection and Removal using the Percentile Method</li>
+    <li>Day 17 - Ordinal Encoding</li>
+    <li>Day 18 - One Hot Encoding</li>
+    <li>Day 19 - Label Encoding</li>
     <li>Day 20 - Univariate Exploratory Data Analysis</li>
     <li>Day 21 - Bivariate Exploratory Data Analysis</li>
     <li>Day 22 - Multivariate Exploratory Data Analysis</li>
