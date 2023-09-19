@@ -28,4 +28,6 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 20 - Univariate Exploratory Data Analysis</li>
     <li>Day 21 - Bivariate Exploratory Data Analysis</li>
     <li>Day 22 - Multivariate Exploratory Data Analysis</li>
+    <li>Day 23 - Standardization</li>
+    <li>Day 24 - Normalization</li>
   </ul>
