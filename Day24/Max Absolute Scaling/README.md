@@ -1,5 +1,5 @@
 <h1>Max Absolute Scaling</h1>
-    <p>Max Absolute Scaling, also known as Max-Min Scaling or Max Scaling, is a data preprocessing technique used in machine learning and data analysis to scale numerical features within a specific range. The basic idea behind Max Absolute Scaling is to transform the values of a feature so that they fall within a predefined range, typically [0, 1], by dividing each value by the maximum absolute value in the dataset.</p>
+    <p>Max Absolute Scaling is a data preprocessing technique used in machine learning and data analysis to scale numerical features within a specific range. The basic idea behind Max Absolute Scaling is to transform the values of a feature so that they fall within a predefined range, typically [0, 1], by dividing each value by the maximum absolute value in the dataset.</p>
 
   <p>Here's the formula for Max Absolute Scaling for a single feature:</p>
 
