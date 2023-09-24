@@ -30,4 +30,6 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 22 - Multivariate Exploratory Data Analysis</li>
     <li>Day 23 - Standardization</li>
     <li>Day 24 - Normalization</li>
+    <li>Day 25 - Handling Date variable</li>
+    <li>Day 26 - Handling Time variable</li>
   </ul>
