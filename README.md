@@ -32,5 +32,5 @@ In this repository, I will document my journey of learning machine learning and 
     <li>Day 24 - Normalization</li>
     <li>Day 25 - Handling Date variable</li>
     <li>Day 26 - Handling Time variable</li>
-    <li></li>
+    <li>Day 27 - Handling Mixed variables</li>
   </ul>
