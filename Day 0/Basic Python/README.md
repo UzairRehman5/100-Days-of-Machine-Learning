@@ -9,6 +9,7 @@
   <li>Conditionals & Boolean</li>
   <li>Loops & Iteration</li>
   <li>Functions</li>
+  <li>Arrays</li>
   </ul>
 
 
